@@ -14,5 +14,7 @@
 #### Responses
 <img width="899" alt="Снимок экрана 2023-03-25 в 12 37 11" src="https://user-images.githubusercontent.com/100151145/227709359-ee186f35-3ce9-4a67-bec9-d07bd74ce727.png">
 
-#### Example of mobile viewing
+#### Example of mobile view
 <img width="275" alt="Снимок экрана 2023-03-25 в 12 41 38" src="https://user-images.githubusercontent.com/100151145/227709593-c9e1e49f-2d24-433b-b536-adf97a7ee5b2.png">
+
+Link: https://www.figma.com/file/aGQKJmmzmkGQSUk4OiAXet/ConceptScheme?node-id=0%3A1&t=3Qz1lKbF4chJkv3Z-1
