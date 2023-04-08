@@ -101,6 +101,10 @@ Link: https://www.figma.com/file/aGQKJmmzmkGQSUk4OiAXet/ConceptScheme?node-id=0%
 
 ![](diagrams_preview/concept.drawio.png)
 
+#### Логическая модель данных
+
+![](diagrams_preview/logical_data_model.drawio.png)
+
 #### Физическая диаграмма данных:
 
 ![](diagrams_preview/phys.png)
