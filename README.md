@@ -98,3 +98,7 @@ Link: https://www.figma.com/file/aGQKJmmzmkGQSUk4OiAXet/ConceptScheme?node-id=0%
 ## Концептуальная диаграмма данных:
 
 ![](diagrams_preview/concept.drawio.png)
+
+## Физическая диаграмма данных:
+
+![](diagrams_preview/phys.png)
