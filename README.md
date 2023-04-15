@@ -109,6 +109,10 @@ Link: https://www.figma.com/file/aGQKJmmzmkGQSUk4OiAXet/ConceptScheme?node-id=0%
 
 ![](diagrams_preview/phys.png)
 
+## 3.5 - 3.7
+
+#### *Находятся в файлах*
+
 ## Нефункциональные требования
 
 ### 4.1 Требования к производительности (быстродействию)
