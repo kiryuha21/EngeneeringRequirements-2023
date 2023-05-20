@@ -146,10 +146,18 @@ Link: https://www.figma.com/file/aGQKJmmzmkGQSUk4OiAXet/ConceptScheme?node-id=0%
 | Клиентское приложение                                        | Нагрузка на CPU в режиме простоя приложения не должна превышать 1% |
 | Сервер приложений                                            | Нагрузка на CPU не должна превышать 75%                            |
 
-### Проектирование сервисов
-## Диаграмма последовательностей
+## Event Storming
+### 1. Big Picture
+![](diagrams_preview/eventstorming1.png)
+### 2. Process Modeling
+![](diagrams_preview/eventstorming2.png)
+### 3. Software Design
+![](diagrams_preview/eventstorming3.png)
+
+## Проектирование сервисов
+### Диаграмма последовательностей
 ![](diagrams_preview/Диаграмма_последовательности.jpg)
-## Эксплуатационные контракты:
+### Эксплуатационные контракты:
 ![](diagrams_preview/contract1.png)
 ![](diagrams_preview/contract2.png)
 ![](diagrams_preview/contract3.png)
