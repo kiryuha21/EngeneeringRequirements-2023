@@ -146,6 +146,14 @@ Link: https://www.figma.com/file/aGQKJmmzmkGQSUk4OiAXet/ConceptScheme?node-id=0%
 | Клиентское приложение                                        | Нагрузка на CPU в режиме простоя приложения не должна превышать 1% |
 | Сервер приложений                                            | Нагрузка на CPU не должна превышать 75%                            |
 
+### Проектирование сервисов
+## Диаграмма последовательностей
+![](diagrams_preview/Диаграмма_последовательности.jpg)
+## Эксплуатационные контракты:
+![](diagrams_preview/contract1.png)
+![](diagrams_preview/contract2.png)
+![](diagrams_preview/contract3.png)
+![](diagrams_preview/contract4.png)
 
 ## 5 Требования к информационной безопасности
 #### *Находится в файлах*
